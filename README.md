@@ -2,10 +2,10 @@
 
 ## 📃 About Me
 
-I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, Ansible, and more. I have experience in cloud infrastructure maintenance, automation, troubleshooting, and system administration.
+I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Terraform, Golang, Ansible, and more. I have experience in cloud infrastructure automation, maintenance, troubleshooting, and system administration.
 
 Some of my work experience includes:
-**DevOps Engineer@TKD Solutions Gmbh (currently)**, Cloud Engineer @ IONOS SE Berlin.
+**DevOps Engineer@TKD Solutions Gmbh (currently)**, Cloud Engineer @IONOS SE Berlin.
 
 ---
 
