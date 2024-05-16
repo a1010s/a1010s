@@ -9,7 +9,7 @@ Some of my work experience includes:
 
 ---
 
-## ✨ Certifications
+## 💫 Certifications
 - CKS: Certified Kubernetes Security Specialist (The Linux Foundation 2023)
 - CKA: Certified Kubernetes Administrator (The Linux Foundation, 2022)
 - PCA: Prometheus Certified Associate (The Linux Foundation, 2023)
@@ -34,7 +34,7 @@ Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 ```
 ---
 
-## ⦿Education
+## ✨ Education
 
 - Master in Composition and Electronic Music, Staatlichen Hochschule für Musik und Darstellende Kunst Stgt.
 - Bachelor in Composition and Electronic Music, Hochschule für Musik Bukarest
