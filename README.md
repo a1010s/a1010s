@@ -76,6 +76,9 @@ Some of my work experience includes:
 - Email: andrei-stegaru@gmx.de
 - Location: Berlin, Germany
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andreistegaru/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com)
 
 
 <!--
