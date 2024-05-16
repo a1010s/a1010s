@@ -21,31 +21,16 @@ Some of my work experience includes:
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Tech Stack
 
-### DevOps / IaaC
-- Kubernetes, Terraform, Ansible, Docker, Grafana, CloudInit, Vagrant
-
-### Operating Systems
-- Linux (Debian, Ubuntu, Redhat, CentOS, Kali, Alpine), MacOS
-
-### Scripting / Programming
-- Python, Golang, C++, Unix Shell Scripting, YAML
-
-### Virtualization
-- KVM, vSphere, HyperV, VirtualBox
-
-### Cloud Providers
-- IONOS, AWS, GCP, Azure
-
-### CI/CD
-- GitLab, GitHub, Jenkins, Azure DevOps
-
-### Databases
-- MongoDB, MySQL, MariaDB, PostgreSQL
-
-### Networking
-- OpenVPN, pfSense, IoT, Routing, HTTP/S
+**DevOps/IaaC:** Kubernetes, Terraform, Ansible, Docker, Grafana, CloudInit, Vagrant
+**Operating Systems:** Linux (Debian, Ubuntu, Redhat, CentOS, Kali, Alpine), MacOS
+**Scripting/Programming:** Python, Golang, C++, Unix Shell Scripting, YAML
+**Virtualization:** KVM, vSphere, HyperV, VirtualBox
+**Cloud Providers:** Azure, IONOS, Hetzner, AWS, GCP.
+**CI/CD:** GitLab, GitHub, Jenkins, Azure DevOps
+**Databases:** MongoDB, MySQL, MariaDB, PostgreSQL
+**Networking:** OpenVPN, pfSense, IoT, Routing, HTTP/S
 
 ---
 
@@ -61,13 +46,6 @@ Some of my work experience includes:
 ### Sound Design Programming
 - Psychoacoustic and Acoustic Research with IRCAM Software.
 - Computer-aided Composition (CAC) and Computer-generated Composition (CGC) with IRCAM Software.
-
-### Mixing and Mastering Engineer
-- Experience in digital technology, MIDI application, Ableton, Logic Pro X, DSP, Digital Performer.
-- Mixing / Mastering post-production.
-
-### Tutor of Composition Class
-- Organized events, managed studios, coordinated projects.
 
 ---
 
