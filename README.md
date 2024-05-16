@@ -27,14 +27,14 @@ DevOps/IaaC: Kubernetes, Terraform, Ansible, Docker, Grafana, CloudInit, Vagrant
 Operating Systems: Linux (Debian, Ubuntu, Redhat, CentOS, Kali, Alpine), MacOS
 Scripting/Programming: Python, Golang, C++, Unix Shell Scripting, YAML
 Virtualization: KVM, vSphere, HyperV, VirtualBox
-Cloud Providers: Azure, IONOS, Hetzner, AWS, GCP.
+Cloud Providers: Azure, IONOS, Hetzner, AWS, GCP
 CI/CD: GitLab, GitHub, Jenkins, Azure DevOps
 Databases: MongoDB, MySQL, MariaDB, PostgreSQL
 Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 ```
 ---
 
-## Education
+## ⦿Education
 
 - Master in Composition and Electronic Music, Staatlichen Hochschule für Musik und Darstellende Kunst Stgt.
 - Bachelor in Composition and Electronic Music, Hochschule für Musik Bukarest
