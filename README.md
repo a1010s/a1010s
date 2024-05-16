@@ -1,23 +1,11 @@
 # Andrei Stegaru
 
----
-
 ## ✋ About Me
 
 I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, Ansible, and more. I have experience in cloud infrastructure maintenance, automation, troubleshooting, and system administration.
 
----
-
-## Professional Experience (excerpt)
-
-### DevOps Engineer
-
-**TKD Solutions GmbH**
-*April 2024 - present*
-
-### Cloud Engineer
-**IONOS SE Berlin**  
-*January 2022 - March 2024*
+Some of my work experience includes:
+**DevOps Engineer@TKD Solutions Gmbh (currently)**, Cloud Engineer @ IONOS SE Berlin.
 
 ---
 
@@ -65,9 +53,6 @@ I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, 
 
 - Master in Composition and Electronic Music, Staatlichen Hochschule für Musik und Darstellende Kunst Stgt.
 - Bachelor in Composition and Electronic Music, Hochschule für Musik Bukarest
-- Google IT Support Professional Certificate, Google Berlin
-- LPIC1: Linux Professional Institute, LPI
-- CKA: Certified Kubernetes Administrator, The Linux Foundation
 
 ---
 
