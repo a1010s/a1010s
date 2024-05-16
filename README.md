@@ -1,9 +1,5 @@
 # Andrei Stegaru
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andreistegaru/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com)
-
 ---
 
 ## ✋ About Me
@@ -14,14 +10,13 @@ I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, 
 
 ## Professional Experience (excerpt)
 
+### DevOps Engineer
+**TKD Solutions GmbH**
+*April 2024 - present*
+
 ### Cloud Engineer
 **IONOS SE Berlin**  
 *January 2022 - March 2024*
-
-- Maintenance and automation of cloud infrastructure and services.
-- Troubleshooting customer problems.
-- Technologies and Tools: Kubernetes, Terraform, Python, Shell Scripting, Ansible, DBaaS, MongoDB.
-- Network troubleshooting, Linux system administration.
 
 ---
 
