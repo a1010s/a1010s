@@ -1,8 +1,11 @@
-# Andrei Stegaru
+<div style="text-align: center;">
+  <img src="files/titel-bild-as.png" alt="Logo" width="500" height="100"/>
+</div>
+
 
 ## 📃 About Me
 
-I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Terraform, Golang, Ansible, and more. I have experience in cloud infrastructure automation, maintenance, troubleshooting, and system administration.
+I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Terraform, Golang, Ansible, and more. I have experience in cloud infrastructure automation, maintenance, troubleshooting, security and system administration.
 
 Some of my work experience includes:
 **DevOps Engineer@TKD Solutions Gmbh (currently)**, Cloud Engineer @IONOS SE Berlin.
