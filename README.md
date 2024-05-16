@@ -11,6 +11,7 @@ I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, 
 ## Professional Experience (excerpt)
 
 ### DevOps Engineer
+
 **TKD Solutions GmbH**
 *April 2024 - present*
 
