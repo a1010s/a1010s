@@ -22,23 +22,15 @@ Some of my work experience includes:
 ---
 
 ## ⚙️ Tech Stack
-```bash
-**DevOps/IaaC:** Kubernetes, Terraform, Ansible, Docker, Grafana, CloudInit, Vagrant
-
-**Operating Systems:** Linux (Debian, Ubuntu, Redhat, CentOS, Kali, Alpine), MacOS
-
-**Scripting/Programming:** Python, Golang, C++, Unix Shell Scripting, YAML
-
-**Virtualization:** KVM, vSphere, HyperV, VirtualBox
-
-**Cloud Providers:** Azure, IONOS, Hetzner, AWS, GCP.
-
-**CI/CD:** GitLab, GitHub, Jenkins, Azure DevOps
-
-**Databases:** MongoDB, MySQL, MariaDB, PostgreSQL
-
-**Networking:** OpenVPN, pfSense, IoT, Routing, HTTP/S
-
+```yaml
+DevOps/IaaC: Kubernetes, Terraform, Ansible, Docker, Grafana, CloudInit, Vagrant
+Operating Systems: Linux (Debian, Ubuntu, Redhat, CentOS, Kali, Alpine), MacOS
+Scripting/Programming: Python, Golang, C++, Unix Shell Scripting, YAML
+Virtualization: KVM, vSphere, HyperV, VirtualBox
+Cloud Providers: Azure, IONOS, Hetzner, AWS, GCP.
+CI/CD: GitLab, GitHub, Jenkins, Azure DevOps
+Databases: MongoDB, MySQL, MariaDB, PostgreSQL
+Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 ```
 ---
 
