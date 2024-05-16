@@ -6,44 +6,38 @@
 
 ---
 
-## About Me
+## ✋ About Me
 
 I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, Ansible, and more. I have experience in cloud infrastructure maintenance, automation, troubleshooting, and system administration.
 
 ---
 
-## Professional Experience
+## Professional Experience (excerpt)
 
 ### Cloud Engineer
 **IONOS SE Berlin**  
-*January 2022 - Present*
+*January 2022 - March 2024*
 
 - Maintenance and automation of cloud infrastructure and services.
 - Troubleshooting customer problems.
 - Technologies and Tools: Kubernetes, Terraform, Python, Shell Scripting, Ansible, DBaaS, MongoDB.
 - Network troubleshooting, Linux system administration.
 
-### IT Support 2nd Level
-**Getronics Berlin**  
-*January 2021 - January 2022*
-
-- Provided 2nd level support for a large client in the mechanical engineering sector.
-- Maintained and managed an existing PC infrastructure (approximately 9000 PC systems worldwide).
-
 ---
 
-## Certifications
-
-- Google IT Support Professional Certificate (Google Berlin, 2019-2020)
-- macOS Command Line Terminal (Udemy Berlin, 2021-2021)
-- HashiCorp Certified: Terraform Associate (HashiCorp, 2022)
-- CKS: Certified Kubernetes Security Specialist (The Linux Foundation, 2023)
-- LPIC1: Linux Professional Institute (LPI, 2022)
+## ✨ Certifications
+- CKS: Certified Kubernetes Security Specialist (The Linux Foundation 2023)
 - CKA: Certified Kubernetes Administrator (The Linux Foundation, 2022)
+- PCA: Prometheus Certified Associate (The Linux Foundation, 2023)
+- PCAP 31-03: Certified Associate in Python Programming (Python Institute 2023)
+- HashiCorp Certified: Terraform Associate (HashiCorp, 2022)
+- LPIC1: Linux Professional Institute (LPI, 2022)
+- DF01: MongoDB Developer Training (MongoDB University 2023)
+- DF300: MongoDB Design Skills / Advanced Features (MongoDB University 2023)
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### DevOps / IaaC
 - Kubernetes, Terraform, Ansible, Docker, Grafana, CloudInit, Vagrant
@@ -61,7 +55,7 @@ I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, 
 - IONOS, AWS, GCP, Azure
 
 ### CI/CD
-- GitLab, GitHub, Jenkins
+- GitLab, GitHub, Jenkins, Azure DevOps
 
 ### Databases
 - MongoDB, MySQL, MariaDB, PostgreSQL
