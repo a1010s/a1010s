@@ -22,7 +22,7 @@ Some of my work experience includes:
 ---
 
 ## ⚙️ Tech Stack
-
+```bash
 **DevOps/IaaC:** Kubernetes, Terraform, Ansible, Docker, Grafana, CloudInit, Vagrant
 
 **Operating Systems:** Linux (Debian, Ubuntu, Redhat, CentOS, Kali, Alpine), MacOS
@@ -39,7 +39,7 @@ Some of my work experience includes:
 
 **Networking:** OpenVPN, pfSense, IoT, Routing, HTTP/S
 
-
+```
 ---
 
 ## Education
