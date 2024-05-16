@@ -1,6 +1,6 @@
 # Andrei Stegaru
 
-## ✋ About Me
+## 📃 About Me
 
 I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Golang, Ansible, and more. I have experience in cloud infrastructure maintenance, automation, troubleshooting, and system administration.
 
