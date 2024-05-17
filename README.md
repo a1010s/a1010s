@@ -57,8 +57,8 @@ Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 - Email: andrei-stegaru@gmx.de
 - Location: Berlin, Germany
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andreistegaru/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andrei-stegaru-0143a9152/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/a1010s)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com)
 
 
