@@ -44,7 +44,7 @@ Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### Sound Design Programming
 - Psychoacoustic and Acoustic Research with IRCAM Software.
@@ -52,7 +52,7 @@ Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 
 ---
 
-## Contact
+## ✉️ Contact
 
 - Email: andrei-stegaru@gmx.de
 - Location: Berlin, Germany
