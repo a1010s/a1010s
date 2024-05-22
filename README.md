@@ -3,7 +3,7 @@
 </div>
 
 
-## 📃 About Me
+## ❖ About Me
 
 I am a passionate DevOps Engineer with expertise in Kubernetes, Docker, Terraform, Golang, Ansible, and more. I have experience in cloud infrastructure automation, maintenance, troubleshooting, security and system administration.
 
