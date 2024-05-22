@@ -59,7 +59,7 @@ Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andrei-stegaru-0143a9152/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/a1010s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com) -->
 
 <p align="center">
  <img width="1000" src="files/github-snake.svg" alt="snake"/>
