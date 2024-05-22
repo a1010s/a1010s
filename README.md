@@ -61,6 +61,9 @@ Networking: OpenVPN, pfSense, IoT, Routing, HTTP/S
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/a1010s)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com)
 
+<p align="center">
+ <img width="1000" src="files/github-snake.svg" alt="snake"/>
+</p>
 
 <!--
 **a1010s/a1010s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
